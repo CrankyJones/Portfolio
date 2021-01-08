@@ -9,7 +9,9 @@ img.profile-pic{
   font-family: fantasy;
 }
 body{
-  background-color: rgba(105, 221, 241, 0.5);
+  background-image: linear-gradient(rgba( 105,221,241,.5), rgba(105, 221, 241,.5)), url("../img/2Mobs.png");
+  background-size: 18%;
+
 }
 .cardblock{
   text-align: justify;
