@@ -40,4 +40,4 @@ SOFTWARE.
 
 
 ### Contact the author
-Geof Rosenmund (geof.rosenmunds.email@gmail.com)4
+Geof Rosenmund (geof.rosenmunds.email@gmail.com)
