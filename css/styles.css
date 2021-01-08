@@ -1,22 +1,40 @@
+.jumbotron{
+  border-radius: 3%;
+  background-color: rgb(74, 207, 152);
+}
+
 img.profile-pic{
   float: left;
-  border-radius: 5%;
+  border-radius: 3%;
   width: 15%;
-  height: auto; 
+  height: auto;
 }
+
 .jumbo{
   text-align: right;
   font-family: fantasy;
 }
+
 body{
   background-image: linear-gradient(rgba( 105,221,241,.5), rgba(105, 221, 241,.5)), url("../img/2Mobs.png");
   background-size: 18%;
-
+  
 }
+
+.col-md-6{
+  padding-top: 30px;
+}
+
 .cardblock{
   text-align: justify;
   text-indent: 25px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 20px;
+}
+
+.cardlist{
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .box{
@@ -29,13 +47,21 @@ body{
   padding: 15px;
   background-color: rgb(206, 206, 255);
 }
-.box-heading{
-  font-style: strong;
+
+.box-title{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
 }
+
+.box-heading{
+  font-style: bolder;
+ }
 
 .box-text{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 11pt;
+  text-indent: 20px;
 }
 
 .depressing{

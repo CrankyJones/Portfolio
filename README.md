@@ -1,8 +1,14 @@
 # Portfolio Page
 by Geof Rosenmund
 
+
 ### Description
-This HTML file will eventually serve as a front page to a portfolio site.
+This HTML file will eventually serve as a front page to a portfolio site. It will allow others to quickly navigate to repositories and GH pages that I have created.
+
+
+### Languages
+* HTML
+* CSS w/Bootstrap
 
 
 ### Setup
