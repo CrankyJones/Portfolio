@@ -14,6 +14,7 @@ body{
 .cardblock{
   text-align: justify;
   text-indent: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .box{
@@ -24,6 +25,7 @@ body{
   border: dashed navy;
   box-sizing: border-box;
   padding: 15px;
+  background-color: rgb(206, 206, 255);
 
 
 }
