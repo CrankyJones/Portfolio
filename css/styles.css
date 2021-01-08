@@ -15,3 +15,15 @@ body{
   text-align: justify;
   text-indent: 25px;
 }
+
+.box{
+  margin: auto;
+  margin-top: 50px;
+  float: center;
+  width: 33%;
+  border: dashed navy;
+  box-sizing: border-box;
+  padding: 15px;
+
+
+}
