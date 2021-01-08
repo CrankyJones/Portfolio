@@ -1,27 +1,22 @@
-# Portfolio Page
+# **Portfolio Page**
 by Geof Rosenmund
 
-
-### Description
+### **Description**
 This HTML file will eventually serve as a front page to a portfolio site. It will allow others to quickly navigate to repositories and GH pages that I have created.
 
-
-### Languages
+### **Languages**
 * HTML
 * CSS w/Bootstrap
 
-
-### Setup
+### **Setup**
 * Download or clone the repository
 * Open the HTML file in a browser
 
-
-### GitHub Link
+### **GitHub Link**
 * Repository: https://github.com/CrankyJones/Portfolio
 * GH Pages: https://crankyjones.github.io/portfolio/index.html
 
-
-### License
+### **License**
 MIT License
 
 Copyright (c) [2021] [Geof Rosenmund]
@@ -44,6 +39,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-### Contact the author
+### **Contact the author**
 Geof Rosenmund (geof.rosenmunds.email@gmail.com)
