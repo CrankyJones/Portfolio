@@ -1,5 +1,13 @@
-img{
+img.profile-pic{
   float: left;
-  border-radius: 60%;
-  
+  border-radius: 5%;
+  width: 15%;
+  height: auto; 
+}
+.jumbo{
+  text-align: right;
+  font-family: fantasy;
+}
+body{
+  background-color: rgba(105, 221, 241, 0.5);
 }
