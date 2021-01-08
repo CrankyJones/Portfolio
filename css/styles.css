@@ -21,7 +21,7 @@ body{
   margin: auto;
   margin-top: 50px;
   float: center;
-  width: 45%;
+  width: 50%;
   border: dashed navy;
   box-sizing: border-box;
   padding: 15px;
@@ -33,6 +33,7 @@ body{
 
 .box-text{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 11pt;
 }
 
 .depressing{
