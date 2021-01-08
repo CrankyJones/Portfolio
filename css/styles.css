@@ -11,3 +11,7 @@ img.profile-pic{
 body{
   background-color: rgba(105, 221, 241, 0.5);
 }
+.cardblock{
+  text-align: justify;
+  text-indent: 25px;
+}
