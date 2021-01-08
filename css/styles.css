@@ -1,23 +1,27 @@
 .jumbotron{
   border-radius: 3%;
   background-color: rgb(74, 207, 152);
+  height: 250px;
 }
 
 img.profile-pic{
   float: left;
+  position: sticky;
   border-radius: 3%;
-  width: 15%;
-  height: auto;
+  width: auto;
+  height: 250px;
 }
 
 .jumbo{
   text-align: right;
   font-family: fantasy;
 }
-
+.row{
+  padding-top: 100px;
+}
 body{
   background-image: linear-gradient(rgba( 105,221,241,.5), rgba(105, 221, 241,.5)), url("../img/2Mobs.png");
-  background-size: 18%;
+  background-size: 200px;
   
 }
 
