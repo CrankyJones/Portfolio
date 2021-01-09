@@ -46,6 +46,7 @@ body{
 .box{
   margin: auto;
   margin-top: 50px;
+  margin-bottom: 50px;
   float: center;
   width: 50%;
   border: dashed navy;
