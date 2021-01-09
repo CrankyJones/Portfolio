@@ -14,7 +14,7 @@ This HTML file will eventually serve as a front page to a portfolio site. It wil
 
 ### **GitHub Link**
 * Repository: https://github.com/CrankyJones/Portfolio
-* GH Pages: https://crankyjones.github.io/portfolio/index.html
+* GH Pages: https://crankyjones.github.io/Portfolio
 
 ### **License**
 MIT License
