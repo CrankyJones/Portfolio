@@ -16,13 +16,15 @@ img.profile-pic{
   text-align: right;
   font-family: fantasy;
 }
-.row{
-  padding-top: 100px;
-}
+
 body{
   background-image: linear-gradient(rgba( 105,221,241,.5), rgba(105, 221, 241,.5)), url("../img/2Mobs.png");
   background-size: 200px;
   
+}
+
+.row{
+  padding-top: 100px;
 }
 
 .col-md-6{
