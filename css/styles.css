@@ -18,9 +18,8 @@ img.profile-pic{
 }
 
 body{
-  background-image: linear-gradient(rgba( 105,221,241,.5), rgba(105, 221, 241,.5)), url("../img/2Mobs.png");
+  background-image: linear-gradient(rgba( 105,221,241,.5), rgba(105, 221, 241,.5)), url("../img/2mobs.jpg");
   background-size: 200px;
-  
 }
 
 .row{
