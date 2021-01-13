@@ -1,12 +1,13 @@
 # **Portfolio Page**
 by Geof Rosenmund
-
-### **Description**
-This HTML file will eventually serve as a front page to a portfolio site. It's also a demonstration of HTML, CSS, and Bootstrap. In time, it will allow others to quickly navigate to repositories and GH pages that I have created.
+A demonstration of HTML, CSS, and Bootstrap.
 
 ### **Technologies Used**
 * HTML
 * CSS w/Bootstrap
+
+### **Description**
+This HTML file will eventually serve as a front page to a portfolio site. In time, it will allow others to quickly navigate to repositories and GH pages that I have created.
 
 ### **Setup/Installation**
 * Clone the repository to your desktop
