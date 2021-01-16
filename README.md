@@ -1,5 +1,6 @@
 # **Portfolio Page**
 by Geof Rosenmund
+
 A demonstration of HTML, CSS, and Bootstrap.
 
 ### **Technologies Used**
@@ -19,7 +20,7 @@ This HTML file will eventually serve as a front page to a portfolio site. In tim
 * GH Pages: https://crankyjones.github.io/Portfolio
 
 ### Known Bugs
-  There are no known bugs at this time.
+There are no known bugs at this time.
 
 ### **License**
 [MIT](https://opensource.org/licenses/MIT)
